@@ -1,0 +1,1 @@
+create table department (id serial primary key AUTO_INCREMENT, name varchar(255) not null, description varchar(255) not null);
